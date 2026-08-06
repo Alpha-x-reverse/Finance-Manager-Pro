@@ -103,17 +103,33 @@ Current data files include:
 
 ## 📷 Application Screenshots
 
-Screenshots will be added soon.
+### 🔐 Login Screen
 
-Example:
-
-- Login Screen
-- Dashboard
-- Expense Manager
-- Budget Manager
-- Financial Ledger
+![Login Screen](screenshots/Login.png)
 
 ---
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+### 💵 Add Expense
+
+![Add Expense](screenshots/Add Expense.png)
+
+---
+
+### 📊 Reports
+
+![Reports](screenshots/Reports.0png)
+
+---
+
+### ✨ Features
+
+![Features](screenshots/Features.png)
 
 ## 🎯 Future Improvements
 
