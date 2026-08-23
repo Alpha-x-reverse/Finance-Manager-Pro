@@ -109,7 +109,7 @@ Current data files include:
 
 ### 🏠 Dashboard
 
-![Dash board](Screenshots/dashboard.png)
+![Dash board](Screenshots/Dashboard.png)
 
 ### 💵 Add Expense
 
@@ -117,11 +117,11 @@ Current data files include:
 
 ### 📊 Reports
 
-![Reports ](Screenshots/reports.png)
+![Reports ](Screenshots/Reports.png)
 
 ### ✨ Features
 
-![Features ](Screenshots/features.png)
+![Features ](Screenshots/Features.png)
 ## 🎯 Future Improvements
 
 - Database Integration (MySQL)
