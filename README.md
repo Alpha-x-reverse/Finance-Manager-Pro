@@ -105,23 +105,23 @@ Current data files include:
 
 ### 🔐 Login Screen
 
-![Login Screen](screenshots/login-page.png)
+![Login Screen](Screenshots/login-page.png)
 
 ### 🏠 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### 💵 Add Expense
 
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](Screenshots/add-expense.png)
 
 ### 📊 Reports
 
-![Reports](screenshots/reports.png)
+![Reports](Screenshots/reports.png)
 
 ### ✨ Features
 
-![Features](screenshots/features.png)
+![Features](Screenshots/features.png)
 ## 🎯 Future Improvements
 
 - Database Integration (MySQL)
